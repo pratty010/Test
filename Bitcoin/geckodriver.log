@@ -1,0 +1,105 @@
+1619476934283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WBuZR87f8V4n"
+1619476937215	Marionette	INFO	Listening on port 40875
+1619476937301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/7fd050e2-a9bc-4891-b5ef-96918ac90a22, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/7fd050e2-a9bc-4891-b5ef-96918ac90a22, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/7fd050e2-a9bc-4891-b5ef-96918ac90a22, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+Gdk-Message: 18:42:25.334: firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619476946596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9fpeMRISto5q"
+Unable to init server: Could not connect: Connection refused
+Error: cannot open display: :1
+1619486991673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sw4GIWrFQP0E"
+1619486994850	Marionette	INFO	Listening on port 40643
+1619486994896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/0f7d53ea-0656-41c0-99d0-173c100c6bbc, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/0f7d53ea-0656-41c0-99d0-173c100c6bbc, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/0f7d53ea-0656-41c0-99d0-173c100c6bbc, line 0: Successfully compiled asm.js code (total compilation time 26ms)
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1619490921813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yiClMz8vk0lN"
+1619490924664	Marionette	INFO	Listening on port 34537
+1619490924727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/d22785a4-922b-4be7-9493-7885bc4a4fae, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/d22785a4-922b-4be7-9493-7885bc4a4fae, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/d22785a4-922b-4be7-9493-7885bc4a4fae, line 0: Successfully compiled asm.js code (total compilation time 26ms)
+1619490935800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mtCiW4sb6CKt"
+1619490938238	Marionette	INFO	Listening on port 42665
+1619490938314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/6299481c-a7d2-4302-855f-4244387ecfa9, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/6299481c-a7d2-4302-855f-4244387ecfa9, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/6299481c-a7d2-4302-855f-4244387ecfa9, line 0: Successfully compiled asm.js code (total compilation time 26ms)
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+1619565409439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0rPCu8WtShZh"
+Gdk-Message: 19:16:50.106: firefox-esr: Fatal IO error 0 (Success) on X server :1.
+
+1619568758373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7Wo2URia3sa3"
+1619568760698	Marionette	INFO	Listening on port 38771
+1619568760787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/d222008d-d82e-47c2-bddb-b1848fa837b4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/d222008d-d82e-47c2-bddb-b1848fa837b4, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/d222008d-d82e-47c2-bddb-b1848fa837b4, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+1619568775752	Marionette	INFO	Stopped listening on port 38771
+1619568838273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1X478IBVqWv2"
+1619568840602	Marionette	INFO	Listening on port 33741
+1619568840687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/b0f66405-0b56-4d87-ba18-4472bd7bc9a1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/b0f66405-0b56-4d87-ba18-4472bd7bc9a1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/b0f66405-0b56-4d87-ba18-4472bd7bc9a1, line 0: Successfully compiled asm.js code (total compilation time 56ms)
+Gdk-Message: 20:14:04.090: firefox-esr: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619568845962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ajcHxVz05Gao"
+1619570220394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hqitaoQXOHbu"
+1619570222240	Marionette	INFO	Listening on port 38543
+1619570222318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/3bd36b61-7336-41b2-ba6c-baf34b1795c3, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/3bd36b61-7336-41b2-ba6c-baf34b1795c3, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/3bd36b61-7336-41b2-ba6c-baf34b1795c3, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+1619570231522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zbb8S3dYwkKs"
+1619570234084	Marionette	INFO	Listening on port 39739
+1619570234147	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/1e1d9533-2130-47f9-bacb-3f98d8977c7e, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/1e1d9533-2130-47f9-bacb-3f98d8977c7e, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/1e1d9533-2130-47f9-bacb-3f98d8977c7e, line 0: Successfully compiled asm.js code (total compilation time 27ms)
+1619585798321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f5hreQMnlKmO"
+1619585800891	Marionette	INFO	Listening on port 36451
+1619585800934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/a779694b-2896-49df-b05b-07502c085a42, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/a779694b-2896-49df-b05b-07502c085a42, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/a779694b-2896-49df-b05b-07502c085a42, line 0: Successfully compiled asm.js code (total compilation time 26ms)
+1619585828806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EIn2imeOqDbF"
+1619585831350	Marionette	INFO	Listening on port 38557
+1619585831428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb2b7f61-0ee8-4105-9a6a-86891f939118, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb2b7f61-0ee8-4105-9a6a-86891f939118, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/bb2b7f61-0ee8-4105-9a6a-86891f939118, line 0: Successfully compiled asm.js code (total compilation time 34ms)
+1619585859279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aXrKIUulYJJD"
+1619585861541	Marionette	INFO	Listening on port 39319
+1619585861605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/aa97d5cd-4e57-471f-b946-c4af99f8ecac, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/aa97d5cd-4e57-471f-b946-c4af99f8ecac, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/aa97d5cd-4e57-471f-b946-c4af99f8ecac, line 0: Successfully compiled asm.js code (total compilation time 28ms)
+1619585889912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nlg1gScCp2CH"
+1619585891984	Marionette	INFO	Listening on port 39917
+1619585892022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/599ee294-c8d0-446d-98ee-1122d16543f9, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/599ee294-c8d0-446d-98ee-1122d16543f9, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/599ee294-c8d0-446d-98ee-1122d16543f9, line 0: Successfully compiled asm.js code (total compilation time 25ms)
+JavaScript warning: https://mail.protonmail.com/9.47f0cd6fb0.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+1619585917658	Marionette	INFO	Stopped listening on port 39917
+1619585919990	Marionette	INFO	Stopped listening on port 39319
+1619585920492	Marionette	INFO	Stopped listening on port 38557
+1619585920936	Marionette	INFO	Stopped listening on port 36451
